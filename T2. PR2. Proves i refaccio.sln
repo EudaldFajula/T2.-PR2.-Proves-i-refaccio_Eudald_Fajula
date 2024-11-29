@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2. PR2. Proves i refaccio", "T2. PR2. Proves i refaccio.csproj", "{AEC66CD2-C867-4A58-92C6-94A087DD0BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC66CD2-C867-4A58-92C6-94A087DD0BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC66CD2-C867-4A58-92C6-94A087DD0BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC66CD2-C867-4A58-92C6-94A087DD0BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC66CD2-C867-4A58-92C6-94A087DD0BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854D8CE3-125A-4571-8D28-3F94FF93113B}
+	EndGlobalSection
+EndGlobal
