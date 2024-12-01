@@ -1,6 +1,6 @@
 Wikipedia, Metodologia àgil (30/11/2024)[Enllaç](https://ca.wikipedia.org/wiki/Metodologia_àgil)
 
-DevExpert, ¿Qué son los dobles de test? (30/11/2024)[Enllaç](https://devexpert.io/dobles-test/)ç
+DevExpert, ¿Qué son los dobles de test? (30/11/2024)[Enllaç](https://devexpert.io/dobles-test/)
 
 Unity, ¿Qué es CI/CD? (30/11/2024)[Enllaç](https://unity.com/es/topics/what-is-ci-cd)
 
