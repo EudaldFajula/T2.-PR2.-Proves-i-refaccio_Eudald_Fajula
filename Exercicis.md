@@ -75,6 +75,72 @@ En el github.
 
 ## 5. Defineix els casos de prova i implements els tests unitaris pel següent problema:
 
+Casos de prova
+
+### Clases de equivalencies:
+
+ClassifyAge: {0 - 120}
+
+IsEven: {infinit}
+
+NameAnalyser: {5}
+
+VerifyColour: {blau, verd}
+
+PersonalityTest: {matí, nit}
+
+### Valors limits
+
+ClassifyAge: {-1 - 121}
+
+IsEven {infinit}
+
+NameAnalyser {-1 - infinit}
+
+### Casos de proba
+
+**ClassyAge:**
+
+Entrada: 0: Resultat esperat: 0
+
+Entrada 1: Resultat esperat: 0
+
+Entrada 18: Resultat esperat: 1
+
+Entrada 65: Resultat esperat: 1
+
+Entrada 66: Resultat esperat: 2
+
+**IsEven**
+
+Entrada 1: Resultat esperat: False
+
+Entrada 2: Resultat esperat: True
+
+**NameAnalyser**
+
+Entrada 1: Resultat esperat: True
+
+Entrada 5: Resultat esperat: False
+
+Entrada 6: Resultat esperat: False
+
+**VerifyColor**
+
+Entrada Res: Resultat esperat: -1
+
+Entrada verd: Resultat esperat: 0
+
+Entrada vermell: Resultat esperat: 1
+
+**PersonalityTest**
+
+Entrada nit: Resultat esperat: 1
+
+Entrada tarda: Resultat esperat: 2
+
+**Codi**
+
 En el github
 
 ## 6. Què són els analitzadors de codi? Fes un vídeo explicant les característiques principals i mostra la configuració i funcionament de Sonarqube amb una solució teva en C#.
