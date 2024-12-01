@@ -144,5 +144,7 @@ Entrada tarda: Resultat esperat: 2
 En el github
 
 ## 6. Què són els analitzadors de codi? Fes un vídeo explicant les característiques principals i mostra la configuració i funcionament de Sonarqube amb una solució teva en C#.
-   
+
+Els analitzadors de codi són eines de programari dissenyades per examinar el codi font dels programes amb l'objectiu de trobar errors, millorar la qualitat del codi i assegurar-se que compleix amb les normes de codificació establertes.
+
 [video](https://www.youtube.com/watch?v=jABFx6e7Fx8)
